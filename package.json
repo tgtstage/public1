@@ -1,0 +1,24 @@
+{
+  "name": "tgt-stage-public1",
+  "version": "1.0.0",
+  "description": "testing continuous compliance with a public repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgtstage/public1.git"
+  },
+  "keywords": [],
+  "author": "BrianMuenzenmeyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgtstage/public1/issues"
+  },
+  "homepage": "https://github.com/tgtstage/public1#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "postcss": "^7.0.0"
+  }
+}
